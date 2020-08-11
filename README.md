@@ -4,7 +4,7 @@
 
 The **Blog Template** empowers you to create your own *personal blog* or *build a business around your content*.
 
-[Check out the latest demo](#) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/).
+[Check out the latest demo](https://hugo-blog-starter.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/).
 
 [**Academic**](https://github.com/gcushen/hugo-academic) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs.
 
