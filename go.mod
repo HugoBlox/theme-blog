@@ -2,4 +2,4 @@ module github.com/sourcethemes/academic-starter-blog
 
 go 1.14
 
-require github.com/gcushen/hugo-academic v0.29.1-0.20200824122129-c0f0326de7e4 // indirect
+require github.com/gcushen/hugo-academic v0.29.1-0.20200826090004-ffca5924ec40 // indirect
