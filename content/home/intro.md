@@ -1,17 +1,18 @@
-+++
-# Introduce the blog.
-widget = "starter.blog.intro"
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear in.
+---
+# Use the Intro widget of the Blog template
+widget: starter.blog.intro
 
-title = "✏️ Blog Template"
-subtitle = "For [Academic Website Builder](https://sourcethemes.com/academic/)"
+# This file represents a page section.
+headless: true
 
-[design.background]
-  # Background color.
-  color = "#090a0b"
+# Order that this section will appear in.
+weight: 10
 
-  # Text color (true=light or false=dark).
-  text_color_light = true
-+++
+title: ✏️ Blog Template
+subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+
+design:
+  background:
+    color: '#090a0b'
+    text_color_light: true
+---
