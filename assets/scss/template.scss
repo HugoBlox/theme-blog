@@ -1,5 +1,5 @@
 // Starter Blog Template
-// https://sourcethemes.com/academic/themes/
+// https://wowchemy.com/templates/
 
 .home-section {
   padding: 3em 0 3em 0;
@@ -44,4 +44,12 @@
   .home-section .container {
     max-width: 880px;
   }
+}
+
+// Prevent stretching on About page with narrow container
+.avatar {
+  width: auto;
+  height: auto;
+  max-width: 200px;
+  max-height: 200px;
 }
