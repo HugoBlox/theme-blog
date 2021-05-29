@@ -1,0 +1,97 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+theme: starter-blog
+day_night: true
+font: ''
+font_size: L
+
+# SEO
+
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: ''
+twitter: ''
+
+# Site header
+
+main_menu:
+  enable: true
+  align: c
+  show_logo: false
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: false
+
+# Localization
+
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+
+# Site features
+
+highlight: true
+highlight_languages:
+  - r
+math: false
+diagram: false
+privacy_pack: false
+edit_page:
+  repo_url: ''
+  content_dir: ''
+  repo_branch: main
+  editable:
+    post: false
+show_related:
+  post: true
+email: test@example.org
+sharing_image: ''
+reading_time: true
+section_pager: true
+sharing: true
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: circle
+comments:
+  provider: ''
+  commentable:
+    post: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: ''
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: ''
+  google_tag_manager: ''
+  google_site_verification: ''
+cms:
+  branch: main
+  local_backend: false
+icon:
+  pack:
+    ai: false
