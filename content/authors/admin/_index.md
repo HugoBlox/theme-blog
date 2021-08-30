@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alice Bighetti (吳恩達)
 
 # Is this the primary user of the site?
 superuser: true

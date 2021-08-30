@@ -5,6 +5,36 @@
   padding: 3em 0 3em 0;
 }
 
+.home-section.wg-about-avatar {
+  padding: 0.2rem 0 0.2rem 0;
+  //display: flex;
+  //align-items: center;
+  //justify-content: center;
+}
+
+#profile .network-icon {
+  margin-top: 0.5rem;
+}
+
+ul.network-icon .big-icon {
+  font-size: 1.5rem;
+}
+
+.dark .portrait-title h3 {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: bold;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 0.5px black;
+}
+
+.dark .portrait-title h2 {
+  color: #fff;
+  font-weight: bold;
+  -webkit-text-fill-color: white;
+  -webkit-text-stroke: 1px black;
+}
+
+/*
 .home-section.wg-starter-blog-intro {
   align-items: center;
   justify-content: center;
@@ -13,6 +43,13 @@
 .home-section.wg-starter-blog-intro .content {
   text-align: center;
 }
+
+.home-section .wg-starter-blog-intro h2 {
+  font-size: 2.25em;
+  line-height: 1.25em;
+  letter-spacing: -0.05em;
+}
+*/
 
 .home-section > .content {
   width: 45em;
@@ -26,12 +63,6 @@
 
 .home-section header {
   margin-bottom: 1em;
-}
-
-.home-section .wg-starter-blog-intro h2 {
-  font-size: 2.25em;
-  line-height: 1.25em;
-  letter-spacing: -0.05em;
 }
 
 // Narrower container for Hello World sections (primarily Blank widget content).

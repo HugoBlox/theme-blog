@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: starter.blog.intro
+widget: about.avatar
 
 # This file represents a page section.
 headless: true
@@ -11,8 +11,13 @@ weight: 10
 title: ✏️ Blog Template
 subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
 
+author: admin
+
 design:
   background:
     color: '#090a0b'
     text_color_light: true
+    video:
+      path: intro.mp4
+#  css_class: fullscreen
 ---
