@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: starter-blog
+theme: custom
 day_night: true
 font: ''
 font_size: L
@@ -22,7 +22,7 @@ twitter: 'wowchemy'
 
 main_menu:
   enable: true
-  align: c
+  align: r
   show_logo: false
   show_language: false
   show_day_night: true

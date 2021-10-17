@@ -6,11 +6,15 @@ title: Alice Bighetti (吳恩達)
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 数据科学家
+
+# Status emoji
+status:
+  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 腾讯
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
