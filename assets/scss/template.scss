@@ -10,7 +10,7 @@ body {
   border-radius: 15px;
 }
 .dark .article-container {
-  background-color: #282a36;
+  background-color: rgb(31, 39, 51);
 }
 
 // custom footer color
@@ -18,13 +18,16 @@ body {
   background-color: rgb(247, 250, 252);
 }
 .dark .page-footer {
-  background-color: #000;
+  background-color: rgb(26, 32, 44);
 }
 
 // more rounded cards and larger gap between cards
 .card-simple {
   margin-top: 1.8rem;
   border-radius: 15px;
+}
+.dark .card-simple {
+  background: rgb(31, 39, 51);
 }
 
 // no navbar shadow
