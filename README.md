@@ -1,10 +1,12 @@
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
-# Blog Template for [Wowchemy Website Builder](https://wowchemy.com)
+# Hugo Academic Blog Theme
 
-The **Blog Template** empowers you to create your own *personal blog* or *build a business around your content*.
+The **Hugo Academic Blog Template** empowers you to create your own *personal blog* or *build a business around your content*.
 
 [Check out the latest demo](https://hugo-blog-starter.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+
+[![Screenshot]()](./preview.webp)
 
 [**Wowchemy**](https://github.com/wowchemy/wowchemy-hugo-modules/) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs.
 
