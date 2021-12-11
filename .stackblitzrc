@@ -1,0 +1,3 @@
+{
+  "startCommand": "hugo server --disableFastRender"
+}

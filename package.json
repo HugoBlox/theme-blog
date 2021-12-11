@@ -1,0 +1,13 @@
+{
+  "name": "@example/hugo-blog-theme",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "hugo",
+    "build:preview": "hugo --baseURL \"${DEPLOY_PRIME_URL:-/}\" --buildDrafts --buildFuture",
+    "start": "hugo server --disableFastRender"
+  },
+  "devDependencies": {
+    "hugo-extended": "^0.90.1"
+  }
+}
