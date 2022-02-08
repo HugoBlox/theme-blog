@@ -5,7 +5,23 @@
 
 title: Hugo Academic Blog Theme # Website name
 baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+
+############################
+## Page options
+############################
+
+cascade:
+  # Blog post options
+  - _target:
+      path: /post/**
+    editable: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: true
+    header:
+      navbar:
+        enable: false
 
 ############################
 ## LANGUAGE
@@ -64,3 +80,7 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
