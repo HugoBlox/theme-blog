@@ -1,4 +1,4 @@
-# Theme metadata
+# Essentially Minimal theme but with constant home section bg color.
 name = "Starter Blog"
 
 [light]
@@ -16,6 +16,9 @@ name = "Starter Blog"
   home_section_even = "rgb(247, 250, 252)"
 
 [dark]
+  primary = "#bbdefb"
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
   background = "rgb(26, 32, 44)"
   home_section_odd = "rgb(26, 32, 44)"
   home_section_even = "rgb(26, 32, 44)"
